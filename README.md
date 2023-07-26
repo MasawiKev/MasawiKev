@@ -1,4 +1,4 @@
--  Hi there 👋.
+Hi there 👋.
 
 - 🤖 I’m @ChrisKevMasawi Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles.
   
