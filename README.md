@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ChrisKevMasawi Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles.
+-  Hi there 👋.
+
+- 🤖 I’m @ChrisKevMasawi Am passionate about creating quality applications. Never tired of learning and building the tech community and helping other developers upscale their skills. I love contributing to open source projects and writing technical articles.
   
 - 👀 I’m interested in • Computer Programmer• Web Developer• Senior Full Stack Software Engineer.• Back-end Developer• UX/UI Design• React Native Developer• Data Scientist• Machine Learning Engineer• AI Engineer • RPA Developer.
    
